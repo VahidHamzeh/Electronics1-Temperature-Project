@@ -11,7 +11,7 @@ This repository contains the design, calculations, and simulation of an analog t
 This project features the design of a thermometer circuit using a diode that is capable of measuring ambient temperature in the range of $0^{\circ}C$ to $100^{\circ}C$. Because the voltmeter used for measurement operates within a $0V$ to $10V$ range, the circuit utilizes a $10V$ ($V_{cc}$) power supply to match this exact scale. 
 
 ### Circuit Schematic
-![Circuit Schematic](image_path.png)
+![Circuit Schematic](assets/image_path.png)
 
 ## Theory and Calculations
 The primary temperature sensor in this design is a diode. The underlying principle is that the diode's forward voltage drop changes by approximately $2mV$ for every $1^{\circ}C$ change in temperature. Therefore, across a $100^{\circ}C$ range, the voltage drop varies by about $200mV$. 
