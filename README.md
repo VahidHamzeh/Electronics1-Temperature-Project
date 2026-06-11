@@ -1,4 +1,3 @@
-# Electronics1-Temperature-Project
 # Analog Thermometer Project
 
 This repository contains the design, calculations, and simulation of an analog thermometer circuit for the Electronics course at Sharif University of Technology.
