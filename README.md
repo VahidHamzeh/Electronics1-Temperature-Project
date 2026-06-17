@@ -1,3 +1,8 @@
+![Design](https://img.shields.io/badge/Design-Analog_Thermometer-blue?style=for-the-badge&logo=microchip&logoColor=white)
+![Simulation](https://img.shields.io/badge/Simulation-LTSpice-red?style=for-the-badge&logo=siemens&logoColor=white)
+![Component](https://img.shields.io/badge/Sensor-1N4148_Diode-orange?style=for-the-badge&logo=arduino&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=github&logoColor=white)
+
 # Analog Thermometer Project
 
 This repository contains the design, calculations, and simulation of an analog thermometer circuit for the Electronics course at Sharif University of Technology.
